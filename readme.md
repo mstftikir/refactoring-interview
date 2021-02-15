@@ -1,4 +1,4 @@
-# luxInterview Project
+# Interview Project
 
 This project is the "refactoring the existing codes" interview project. Basically, it is a Spring Boot RESTful Web API project to access and operate over some entities.
 
